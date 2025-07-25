@@ -1,7 +1,7 @@
-It has been years since GitHub removed the streak counter on the contributions part of the profile, but I still, to this day, keep my streak active!
+Even tho GitHub officialy removed streaks in May 2016, I kept mine going for almost a decade!
 
-I had already started my streak when they removed it, and now it is too long for me to end it :P
+I was 2 months away from reaching 10 years, which I was planning to end the streak at, however I went on vacation and had so much fun I completely forgot to keep the streak going
 
-You can view it here:
+Here you can see what my streak ended at:
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=LeonTG&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=LeonTG&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&hide_current_streak=true)](https://git.io/streak-stats)
